@@ -18,7 +18,10 @@ function getState(oneState, twoState) {
       .then(() => { console.log("Value is 2") })
       .catch((error) => { console.error(error) });
   } else {
-    console.log("None");
+    chrome.storage.local
+      .set({"status": undefined})
+      .then(() => { console.log("Value is undefined")})
+      .catch((error) => {console.error(error)});
   }
 }
 
