@@ -8,5 +8,5 @@
 **Step 2:** Remove the `.git` folder. Go to that folder that you have cloned, via CLI or GUI. Delete the `.git` folder.<br/>
 **Step 3:** Now as your extension is ready to execute, open up your CHROME browser(yes, its only available on Google Chrome only), on the top of URL bar, type `chrome://extensions` and press Enter. Turn on Developer options.<br/>
 **Step 4:** Now, you will see the Load Unpacked button, after turning on the Developer Mode, go to `chrome://extensions` and click on Load Unpacked button and select the folder that you have git cloned.<br/>
-**Step 5:** Now your extension is ready to use. Pin the extension and enjoy :). If there is any issues or problems or bugs in the extension. Screenshot your console bar of webpage and extension as shown in video and raise an issue, or you can raise an issue and we can follow on.<br/>
+**Step 5:** Now your extension is ready to use. Pin the extension and enjoy :). If there is any issues or problems or bugs in the extension. Screenshot your console bar of webpage and extension, raise an issue, or you can raise an issue and we can follow on.<br/>
 ## Thank You for using my extension. 🤝
