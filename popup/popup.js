@@ -19,7 +19,7 @@ function getState(oneState, twoState) {
       .catch((error) => { console.error(error) });
   } else {
     chrome.storage.local
-      .set({"status": undefined})
+      .set({"status": "0"})
       .then(() => { console.log("Value is undefined")})
       .catch((error) => {console.error(error)});
   }
