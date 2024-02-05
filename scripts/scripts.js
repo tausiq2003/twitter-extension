@@ -1,7 +1,6 @@
 
 function doing() {
   chrome.storage.local.get(["status"], function (result) {
-    window.setTimeout(function () {
       const status = result.status;
       console.log("Status from storage:", status);
 
@@ -40,7 +39,7 @@ function doing() {
           }
         }
       }
-    }, 5000);
+
   });
 }
 const observer = new MutationObserver(doing);
