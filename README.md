@@ -1,5 +1,5 @@
 # twitter-extension
-**About:** This is a twitter extension that removes distraction from your home feed, the unwanted trending sidebar, and the videos, which is completely useless in a web version in `explore` page. So, this is a youtube video: TODO that showcases about how to download and install it on your machine, remember this twitter extension only works on chrome browser only. I haven't scaled yet or release yet on chrome web store so this is somewhat painful if you ain't a developer. TLDR to the youtube video.<br/>
+**About:** This is a twitter extension that removes distraction from your home feed, the unwanted trending sidebar, and the videos, which is completely useless in a web version in `explore` page. So, this is a youtube video: [Youtube](https://youtu.be/vuIWW5NB03o), that showcases about how to download and install it on your machine, remember this twitter extension only works on chrome browser only. I haven't scaled yet or release yet on chrome web store so this is somewhat painful if you ain't a developer. TLDR to the youtube video.<br/>
 
 **STEPS:** <br/>
 
