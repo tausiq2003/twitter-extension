@@ -20,7 +20,7 @@ function getState(oneState, twoState) {
   } else {
     chrome.storage.local
       .set({"status": "0"})
-      .then(() => { console.log("Value is undefined")})
+      .then(() => { console.log("Value is 0")})
       .catch((error) => {console.error(error)});
   }
 }
